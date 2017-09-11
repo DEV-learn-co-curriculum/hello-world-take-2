@@ -1,6 +1,6 @@
-## Hello World Take 2
+## Hello World Take 5
 
-1. Objective 1
+1. More edits from lesson show
 2. Objective 2
 
 ## Instructions
