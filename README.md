@@ -1,6 +1,6 @@
 ## Hello World Take 2
 
-1. Objective 1
+1. Just making a ton of edits, nbd
 2. Objective 2
 
 ## Instructions
